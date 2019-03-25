@@ -2,5 +2,5 @@
 
 In this repository I have done some work with ..
   -Array
-  -Diffrent loop
+  -Diffrent types of loop
   -Method
