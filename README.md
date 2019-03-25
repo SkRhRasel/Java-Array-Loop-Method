@@ -1,6 +1,6 @@
 # Java-Array-Loop-Method
 
 In this repository I have done some work with ..
-  -Array
-  -Diffrent types of loop
-  -Method
+  1. Array
+  2. Diffrent types of loop
+  2. Method
